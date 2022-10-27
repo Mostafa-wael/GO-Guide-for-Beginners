@@ -1,4 +1,6 @@
 # GO Guide for Beginners
+![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png)
+
 This is a guide for beginners to learn Go. It is a work in progress. If you have any suggestions, please open an issue or a pull request.
 
 ## Table of Contents
@@ -518,3 +520,4 @@ func main() {
     fmt.Println(counter)
 }
 ```
+>> If you have any suggestions, please open an issue or a pull request.
