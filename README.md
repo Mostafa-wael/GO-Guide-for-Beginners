@@ -67,8 +67,6 @@ func main() {
 ```
 Note that, we can import multiple packages in one line and we should whatever package we have imported.
 ```go
-We can use `Println` instead of `Print` to print a new line.
-```go
 package main
 import "fmt"
 func main() {
